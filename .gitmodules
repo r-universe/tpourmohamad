@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BayesDissolution"]
 	path = BayesDissolution
 	url = https://github.com/tpourmohamad/bayesdissolution
-	shallow = true
-	registered = true
 [submodule "CompModels"]
 	path = CompModels
 	url = https://github.com/cran/CompModels
-	shallow = true
-	registered = true
