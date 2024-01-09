@@ -8,3 +8,6 @@
 [submodule "CompModels"]
 	path = CompModels
 	url = https://github.com/cran/CompModels
+[submodule "bmet"]
+	path = bmet
+	url = https://github.com/tpourmohamad/bmet
